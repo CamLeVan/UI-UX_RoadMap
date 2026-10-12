@@ -47,8 +47,9 @@ UI-UX_RoadMap/
 │   └── Day12-Workshop-ADH301-2021-TranLQ (1).pdf
 │
 ├── 06_DeTai_StudyMate_VKU/                 # [HỒ SƠ ĐỀ TÀI CHÍNH THỨC CỦA NHÓM 5]
-│   ├── 01 · TITLE STUDYMATE APPLICATION...pdf  (Slide Deck 31 trang)
-│   └── BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md (Báo cáo nghiên cứu học thuật)
+│   ├── 01 · TITLE STUDYMATE APPLICATION...pdf  (Slide Deck gốc 31 trang)
+│   ├── BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md (Báo cáo nghiên cứu học thuật)
+│   └── KICH_BAN_VA_NOI_DUNG_SLIDE_THI_GIUA_KI_STUDYMATE.md (Kịch bản Slide & Lời thoại thi Giữa kỳ)
 │
 ├── README.md                               # [Bản đồ tra cứu toàn bộ tài liệu & đề tài]
 ├── NGU_CANH_CHUYEN_MON_ADH301.md           # [Chi tiết lý thuyết, phương pháp luận & ngữ cảnh StudyMate]
@@ -74,8 +75,9 @@ UI-UX_RoadMap/
 
 | Tên File & Liên kết | Định dạng | Tóm tắt nội dung | Hướng dẫn sử dụng cho nhóm |
 |:---|:---:|:---|:---|
-| [BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md](06_DeTai_StudyMate_VKU/BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md) | Markdown | **Cẩm nang bảo vệ giữa kỳ đạt điểm tuyệt đối:** Phân tích lý thuyết ID5e, 10 Nielsen Heuristics, Fitts' law, 6 pain points, 3 personas, ma trận 20 đối thủ, IA, User flow, 9 wireframes, protocol usability test và bộ câu hỏi phản biện của giảng viên. | **Bắt buộc đọc kỹ trước buổi bảo vệ giữa kỳ.** Dùng làm bài thuyết minh đồ án chính thức và tài liệu tra cứu khi trả lời phản biện của Hội đồng chấm thi. |
-| [01 · TITLE STUDYMATE APPLICATION...pdf](06_DeTai_StudyMate_VKU/01%20%C2%B7%20TITLE%20STUDYMATE%20APPLICATION%20Qu%E1%BA%A3n%20l%C3%BD%20h%E1%BB%8Dc%20t%E1%BA%ADp%20t%C3%ADn%20ch%E1%BB%89%20%26%20C%E1%BB%99ng%20t%C3%A1c%20b%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m%20th%C3%B4ng%20minh%20cho%20sinh%20vi%C3%AAn%20Tr%C6%B0%E1%BB%9Dng%20%C4%90H%20C%C3%B4ng%20ngh%E1%BB%87%20Th%C3%B4ng%20tin%20%26%20Truy%E1%BB%81n%20th%C3%B4ng%20Vi%E1%BB%87t%20-%20H%C3%A0n%20%28VKU%29%20Th%C3%A0nh%20vi%C3%AAn%20L%C3%AA%20V%C4%83n%20C%E1%BA%A3m%20%C2%B7%20Nguy.pdf) | PDF (31 trang) | Bộ Slide thuyết trình Chặng Giữa kỳ chuẩn mực bao gồm đầy đủ dữ liệu khảo sát, hình ảnh phác thảo và wireframe số. | File trình chiếu chính thức khi thuyết trình đồ án giữa kỳ. |
+| [KICH_BAN_VA_NOI_DUNG_SLIDE_THI_GIUA_KI_STUDYMATE.md](06_DeTai_StudyMate_VKU/KICH_BAN_VA_NOI_DUNG_SLIDE_THI_GIUA_KI_STUDYMATE.md) | Markdown | **Kịch bản thiết kế Slide & Lời thoại thuyết trình đạt điểm 10:** Hướng dẫn chi tiết từ Slide 1 đến Slide 13 (Bố cục, nội dung chữ, lời thoại từng giây, phân công 5 thành viên và bộ câu hỏi phản biện của Hội đồng). | **Tài liệu tác chiến trực tiếp để làm slide trình chiếu và luyện tập thuyết trình nhóm trước khi thi giữa kỳ.** |
+| [BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md](06_DeTai_StudyMate_VKU/BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md) | Markdown | **Cẩm nang bảo vệ giữa kỳ đạt điểm tuyệt đối:** Phân tích lý thuyết ID5e, 10 Nielsen Heuristics, Fitts' law, 6 pain points, 3 personas, ma trận 20 đối thủ, IA, User flow, 9 wireframes, protocol usability test. | Dùng làm bài thuyết minh đồ án chính thức và tài liệu tra cứu khi trả lời phản biện của Hội đồng chấm thi. |
+| [01 · TITLE STUDYMATE APPLICATION...pdf](06_DeTai_StudyMate_VKU/01%20%C2%B7%20TITLE%20STUDYMATE%20APPLICATION%20Qu%E1%BA%A3n%20l%C3%BD%20h%E1%BB%8Dc%20t%E1%BA%ADp%20t%C3%ADn%20ch%E1%BB%89%20%26%20C%E1%BB%99ng%20t%C3%A1c%20b%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m%20th%C3%B4ng%20minh%20cho%20sinh%20vi%C3%AAn%20Tr%C6%B0%E1%BB%9Dng%20%C4%90H%20C%C3%B4ng%20ngh%E1%BB%87%20Th%C3%B4ng%20tin%20%26%20Truy%E1%BB%81n%20th%C3%B4ng%20Vi%E1%BB%87t%20-%20H%C3%A0n%20%28VKU%29%20Th%C3%A0nh%20vi%C3%AAn%20L%C3%AA%20V%C4%83n%20C%E1%BA%A3m%20%C2%B7%20Nguy.pdf) | PDF (31 trang) | Bộ Slide thuyết trình Chặng Giữa kỳ chuẩn mực bao gồm đầy đủ dữ liệu khảo sát, hình ảnh phác thảo và wireframe số. | File trình chiếu tham khảo hình ảnh và số liệu gốc của nhóm. |
 
 ---
 
