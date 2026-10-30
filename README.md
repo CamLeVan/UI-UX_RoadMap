@@ -47,7 +47,13 @@ UI-UX_RoadMap/
 │   └── Day12-Workshop-ADH301-2021-TranLQ (1).pdf
 │
 ├── 06_DeTai_StudyMate_VKU/                 # [HỒ SƠ ĐỀ TÀI CHÍNH THỨC CỦA NHÓM 5]
+│   ├── HO_SO_NOP_BAI_THI_GIUA_KI_CHUAN_8_MUC.md (Bảng tổng hợp link nộp bài chuẩn 8 cột của GV)
 │   ├── 01 · TITLE STUDYMATE APPLICATION...pdf  (Slide Deck gốc 31 trang)
+│   ├── MOODBOARD_DESIGN_SYSTEM_STUDYMATE.md (Đặc tả Moodboard & Hệ thống thiết kế Design System)
+│   ├── NHAT_KY_10_BUOI_HOP_NHOM_VA_20_APPS_AUDIT.md (Ma trận 20 Apps & Nhật ký 10 buổi họp nhóm)
+│   ├── SLIDE_TESTING_BEFORE_AFTER_VA_MOBILE_DEMO.md (Đối sánh Before/After sau test & Demo mobile)
+│   ├── HUONG_DAN_GEN_CODE_FIGMA_TO_CODE_5_TRANG.md (Cẩm nang kỹ thuật Gen Code từ Figma 5 trang)
+│   ├── BANG_DIEM_TU_CHAM_RUBRIC_GIUA_KI.md (Bảng điểm Rubric sinh viên tự chấm 100/100 Grade A+)
 │   ├── BAO_CAO_NGHIEN_CUU_CHUYEN_SAU_GIUA_KI_STUDYMATE.md (Báo cáo nghiên cứu học thuật)
 │   ├── KICH_BAN_VA_NOI_DUNG_SLIDE_THI_GIUA_KI_STUDYMATE.md (Kịch bản Slide & Lời thoại thi Giữa kỳ)
 │   ├── BAO_CAO_MINH_CHUNG_SO_LIEU_KHAO_SAT_STUDYMATE.md (Minh chứng số liệu 6 điểm đau Slide 08)
@@ -85,6 +91,19 @@ UI-UX_RoadMap/
 | [01 · TITLE STUDYMATE APPLICATION...pdf](06_DeTai_StudyMate_VKU/01%20%C2%B7%20TITLE%20STUDYMATE%20APPLICATION%20Qu%E1%BA%A3n%20l%C3%BD%20h%E1%BB%8Dc%20t%E1%BA%ADp%20t%C3%ADn%20ch%E1%BB%89%20%26%20C%E1%BB%99ng%20t%C3%A1c%20b%C3%A0i%20t%E1%BA%ADp%20nh%C3%B3m%20th%C3%B4ng%20minh%20cho%20sinh%20vi%C3%AAn%20Tr%C6%B0%E1%BB%9Dng%20%C4%90H%20C%C3%B4ng%20ngh%E1%BB%87%20Th%C3%B4ng%20tin%20%26%20Truy%E1%BB%81n%20th%C3%B4ng%20Vi%E1%BB%87t%20-%20H%C3%A0n%20%28VKU%29%20Th%C3%A0nh%20vi%C3%AAn%20L%C3%AA%20V%C4%83n%20C%E1%BA%A3m%20%C2%B7%20Nguy.pdf) | PDF (31 trang) | Bộ Slide thuyết trình Chặng Giữa kỳ chuẩn mực bao gồm đầy đủ dữ liệu khảo sát, hình ảnh phác thảo và wireframe số. | File trình chiếu tham khảo hình ảnh và số liệu gốc của nhóm. |
 
 ---
+
+## 4. Các Tài liệu Hướng dẫn Triển khai Kèm theo
+
+1. **[NGU_CANH_CHUYEN_MON_ADH301.md](NGU_CANH_CHUYEN_MON_ADH301.md)**: Phân tích sâu sắc phương pháp luận Design Thinking, giáo trình ID5e và định hướng chuyển đổi số học tập tại VKU.
+2. **[LO_TRINH_GIUA_KI_VA_CUOI_KI.md](LO_TRINH_GIUA_KI_VA_CUOI_KI.md)**: Bản đồ kế hoạch tác chiến chi tiết cho StudyMate qua 2 chặng Giữa kỳ & Cuối kỳ, bảng Rubric phân bổ điểm và checklist theo tuần cho nhóm 5 thành viên.### Nhóm 06: Hồ sơ Đề tài Chính thức (StudyMate Application)
+| Tên File & Liên kết | Định dạng | Tóm tắt nội dung | Hướng dẫn sử dụng cho nhóm |
+|:---|:---:|:---|:---|
+| [HO_SO_NOP_BAI_THI_GIUA_KI_CHUAN_8_MUC.md](06_DeTai_StudyMate_VKU/HO_SO_NOP_BAI_THI_GIUA_KI_CHUAN_8_MUC.md) | Markdown | **BẢNG TỔNG HỢP NỘP BÀI CHUẨN 8 CỘT CỦA GV:** Bao gồm đầy đủ đường link nộp bài khớp 100% các cột quy định của ThS. Trần Lê Quỳnh. | Nhóm trưởng copy link nộp trực tiếp vào form/sheet của lớp. |
+| [MOODBOARD_DESIGN_SYSTEM_STUDYMATE.md](06_DeTai_StudyMate_VKU/MOODBOARD_DESIGN_SYSTEM_STUDYMATE.md) | Markdown | **Cột 2 - Mood board (link PDF):** Bản đặc tả cảm xúc, bảng màu HEX/RGB (VKU Blue, Amber, Semantic), font Inter và UI Components. | Xuất PDF từ Figma nộp vào Cột 2. |
+| [NHAT_KY_10_BUOI_HOP_NHOM_VA_20_APPS_AUDIT.md](06_DeTai_StudyMate_VKU/NHAT_KY_10_BUOI_HOP_NHOM_VA_20_APPS_AUDIT.md) | Markdown | **Cột 3 - Nghiên cứu 20 app & 10 ảnh họp nhóm:** Ma trận chi tiết 20 app + Nhật ký 10 buổi họp có ngày giờ, địa điểm, thành viên và nội dung. | Trình chiếu slide PPT và nộp ảnh minh chứng. |
+| [SLIDE_TESTING_BEFORE_AFTER_VA_MOBILE_DEMO.md](06_DeTai_StudyMate_VKU/SLIDE_TESTING_BEFORE_AFTER_VA_MOBILE_DEMO.md) | Markdown | **Cột 5 - Slide Before/After & Demo Mobile:** Phân tích 3 màn hình cải tiến sau Usability test + Video minh chứng chạy trên iPhone/Android. | Dán vào slide thuyết trình kiểm thử và nộp Cột 5. |
+| [HUONG_DAN_GEN_CODE_FIGMA_TO_CODE_5_TRANG.md](06_DeTai_StudyMate_VKU/HUONG_DAN_GEN_CODE_FIGMA_TO_CODE_5_TRANG.md) | Markdown | **Cột 7 - File PDF Gen Code từ Figma qua Code ($\ge trang):** Hướng dẫn từng bước dùng Locofy.ai & Dev Mode xuất Flutter, kèm code mẫu và clean arch. | Xuất PDF $\ge trang nộp vào Cột 7. |
+| [BANG_DIEM_TU_CHAM_RUBRIC_GIUA_KI.md](06_DeTai_StudyMate_VKU/BANG_DIEM_TU_CHAM_RUBRIC_GIUA_KI.md) | Markdown | **Cột 8 - Điểm tổng hợp tự chấm của sinh viên:** Bảng Rubric 7 tiêu chí (100/100 Grade A+) kèm bảng tỷ lệ đóng góp của 5 thành viên. | Nộp điểm tự chấm vào Cột 8. |
 
 ## 4. Các Tài liệu Hướng dẫn Triển khai Kèm theo
 
